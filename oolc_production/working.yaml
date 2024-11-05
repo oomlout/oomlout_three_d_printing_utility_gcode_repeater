@@ -1,0 +1,6 @@
+project_id: oomlout_three_d_printing_utility_gcode_repeater
+project_name: Oomlout Three D Printing Utility Gcode Repeater
+project_repo: https://github.com/oomlout/oomlout_three_d_printing_utility_gcode_repeater
+production_format:
+  oolc_1:
+    file_location: source_files/oolc_1.cdr
